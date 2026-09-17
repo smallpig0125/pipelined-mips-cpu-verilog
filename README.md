@@ -2,7 +2,8 @@
 
 A 5-stage pipelined MIPS-Lite CPU implemented in Verilog, integrating modular arithmetic, control, memory, and pipeline components with ModelSim verification.
 
-![Project Overview](docs/overview.jpg)
+<img width="1280" height="720" alt="overview" src="https://github.com/user-attachments/assets/85c37e48-60af-4f71-9180-b085de09feca" />
+
 
 ## Overview
 
